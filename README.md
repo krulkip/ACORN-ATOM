@@ -5,7 +5,7 @@ A lightweight Acorn Atom emulator running on an ESP32 with a Cheap Yellow Displa
 I used a Guiton JC2432W328 which has CST820 capacitive touch screen and ST7789 video chip.
 
 ## Features
-- 6502 CPU emulation nbased on the Bitboard one https://github.com/SMDHuman/bitboard_6502
+- 6502 CPU emulation based on the Bitboard one https://github.com/SMDHuman/bitboard_6502
 - Original Atom ROM support (BASIC, FP, Kernel)
 - Text-mode display (32x16)
 - Serial keyboard input
