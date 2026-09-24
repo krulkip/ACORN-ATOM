@@ -42,6 +42,7 @@ Stable version: V038
 
 ## Future Work
 - Keyboard matrix emulation
+- link for keycaps https://amzn.eu/d/0fHdWfBn
 - Sound
 - Graphics
 - File loading
