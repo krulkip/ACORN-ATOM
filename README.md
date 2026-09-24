@@ -43,6 +43,7 @@ Stable version: V038
 ## Future Work
 - Keyboard matrix emulation
 - link for keycaps https://amzn.to/4d5deqB
+- link for MX2 keys https://amzn.to/3TPVARc
 - Sound
 - Graphics
 - File loading
