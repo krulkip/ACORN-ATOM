@@ -45,6 +45,7 @@ Stable version: V038
 - link for keycaps https://amzn.to/4d5deqB
 - link for MX2 keys https://amzn.to/3TPVARc
 - link for JC2432W328C https://amzn.to/4htEMYh
+- link for stabilizer for 6.25u space bar https://amzn.to/4yw0Dpj
 - Sound
 - Graphics
 - File loading
