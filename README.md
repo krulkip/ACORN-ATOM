@@ -44,6 +44,7 @@ Stable version: V038
 - Keyboard matrix emulation
 - link for keycaps https://amzn.to/4d5deqB
 - link for MX2 keys https://amzn.to/3TPVARc
+- link for JC2432W328C https://amzn.to/4htEMYh
 - Sound
 - Graphics
 - File loading
